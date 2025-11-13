@@ -11,10 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 起步使用
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      link: /guide/how-to-use
   
 features:
   - title: 文件传输快
