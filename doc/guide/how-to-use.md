@@ -89,7 +89,7 @@ degit  hsknemo/vtran-server 【下载到本地的文件名称命名】
 ```shell
 vite-build
 ```
-- 将产出代码复制到后台代码 `public` 文件即可
+- 将产出代码复制到后台代码 `public` 文件夹即可
 - 利用工具启动项目 端口默认`3000`
 ```shell
 pm2 start app.js

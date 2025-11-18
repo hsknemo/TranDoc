@@ -19,7 +19,7 @@ export default defineConfig({
           { text: '什么是Tran', link: '/guide/what-is-tran' },
           { text: '快速开始', link: '/guide/how-to-use' }
         ]
-      }
+      },
       // {
       //   text: 'Examples',
       //   items: [
