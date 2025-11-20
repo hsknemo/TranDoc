@@ -95,7 +95,7 @@
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
     #1d1d1d 30%,
-    #fff 50%
+    rgb(128, 128, 128) 50%
   );
 
   --vp-home-hero-image-background-image: linear-gradient(

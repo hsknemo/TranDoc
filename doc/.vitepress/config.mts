@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Tran",
+  title: "VTran",
   description: "Transform for User",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
