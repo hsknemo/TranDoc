@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Tran"
+  name: "VTran"
   image:
     src: /Tran.svg
   text: "局域网传输文件，聊天利器"
